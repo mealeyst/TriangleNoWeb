@@ -1,0 +1,17 @@
+{
+  "name": "triangleWithoutWeb",
+  "version": "1.0.0",
+  "description": "Trying to solve the problem in the file",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Shawn Mealey",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
